@@ -24,4 +24,8 @@ Automatic Table and Date Search
 
 * [UFO Sightings Data]
 
+### View the live webpage here:
+
+https://nicky-plat.github.io/javascript-challenge/
+
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
